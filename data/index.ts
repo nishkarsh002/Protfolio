@@ -121,7 +121,7 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/insta.svg",
     link: "https://www.instagram.com/nish.dixit002/",
   },
   {
