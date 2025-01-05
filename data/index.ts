@@ -104,7 +104,7 @@ export const workExperience = [
   {
     id: 2,
     title: "Developer Intern",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    desc: "Utilized APIs to integrate external services and optimize application functionality.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp4.svg",
    
