@@ -40,14 +40,14 @@ const Hero = () => {
                      words="Hi, I&apos;m Nishkarsh a Web Developer"
                     />
                    
-                    <a href="https://github.com/nishkarsh002" target="__blank">
-                        <MagicButton 
-                        title="Download My Resume"
-                        handleClick={clicked}
-                        icon={<FaLocationArrow />}
-                        position="right"
-                        />
-                    </a>
+                   
+                    <MagicButton 
+                    title="Download My Resume"
+                    handleClick={clicked}
+                    icon={<FaLocationArrow />}
+                    position="right"
+                     />
+                    
                 </div>
 
              </div>
